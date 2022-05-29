@@ -1,7 +1,7 @@
 # 💫About Me :
 🔭 I'm currently working on :
   - Cupidity - A Dating app that matches people based on their music preferences.
-  - Khel Cafe- a short news app that shows you all news about sports world in a short glanceable format
+  - Khel Cafe- a short news app that shows you all news about the sports world in a short glanceable format
  
 🌱 I'm currently learning Flutter, node js, and MongoDB
 ⚡ I also happen to be a photographer (ig: Rishab.Sanjay) 😋
