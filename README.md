@@ -1,5 +1,5 @@
 # 💫About Me :
-🔭 I'm currently working on :
+🔭 Projects I'm proud of :
   - Cupidity - A Dating app that matches people based on their music preferences.
   - Khel Cafe- a short news app that shows you all news about the sports world in a short glanceable format
  
